@@ -33,6 +33,12 @@
 # data = list()
 # print(data) 
 
+# def even_(val):
+#         for i in val:
+#             if i%2==0:
+#                 print(i)
+# even_([1,2,3,4,5,66,6,77,899])      
+
         
 # def capital():
 #     e1 = input("Enter a value")
